@@ -1,0 +1,14 @@
+/Users/yoann/Workspace/CESI DI 2023/POO/TP-Billetterie/Billetterie/Billetterie/bin/Debug/net8.0/Billetterie
+/Users/yoann/Workspace/CESI DI 2023/POO/TP-Billetterie/Billetterie/Billetterie/bin/Debug/net8.0/Billetterie.deps.json
+/Users/yoann/Workspace/CESI DI 2023/POO/TP-Billetterie/Billetterie/Billetterie/bin/Debug/net8.0/Billetterie.runtimeconfig.json
+/Users/yoann/Workspace/CESI DI 2023/POO/TP-Billetterie/Billetterie/Billetterie/bin/Debug/net8.0/Billetterie.dll
+/Users/yoann/Workspace/CESI DI 2023/POO/TP-Billetterie/Billetterie/Billetterie/bin/Debug/net8.0/Billetterie.pdb
+/Users/yoann/Workspace/CESI DI 2023/POO/TP-Billetterie/Billetterie/Billetterie/obj/Debug/net8.0/Billetterie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yoann/Workspace/CESI DI 2023/POO/TP-Billetterie/Billetterie/Billetterie/obj/Debug/net8.0/Billetterie.AssemblyInfoInputs.cache
+/Users/yoann/Workspace/CESI DI 2023/POO/TP-Billetterie/Billetterie/Billetterie/obj/Debug/net8.0/Billetterie.AssemblyInfo.cs
+/Users/yoann/Workspace/CESI DI 2023/POO/TP-Billetterie/Billetterie/Billetterie/obj/Debug/net8.0/Billetterie.csproj.CoreCompileInputs.cache
+/Users/yoann/Workspace/CESI DI 2023/POO/TP-Billetterie/Billetterie/Billetterie/obj/Debug/net8.0/Billetterie.dll
+/Users/yoann/Workspace/CESI DI 2023/POO/TP-Billetterie/Billetterie/Billetterie/obj/Debug/net8.0/refint/Billetterie.dll
+/Users/yoann/Workspace/CESI DI 2023/POO/TP-Billetterie/Billetterie/Billetterie/obj/Debug/net8.0/Billetterie.pdb
+/Users/yoann/Workspace/CESI DI 2023/POO/TP-Billetterie/Billetterie/Billetterie/obj/Debug/net8.0/Billetterie.genruntimeconfig.cache
+/Users/yoann/Workspace/CESI DI 2023/POO/TP-Billetterie/Billetterie/Billetterie/obj/Debug/net8.0/ref/Billetterie.dll
